@@ -76,40 +76,6 @@ I'm interested in understanding how technology can transform:
 | ◈ Knowledge Engineering | Knowledge graphs, connected data, decision intelligence |
 | ◈ Future Computing | Quantum computing, emerging computational paradigms |
 
----
-
-## ⚡ SYSTEMS I'M EXPLORING
-
-I enjoy thinking beyond individual applications and exploring entire technology ecosystems.
-
-### 01 / PR-SCOPE
-**AI × SOFTWARE ENGINEERING**
-
-An exploration into intelligent code review systems that understand pull requests, detect risks, analyze changes and improve software delivery.
-
-### 02 / DISCOVERY TWIN OS
-**AI × MATERIALS SCIENCE × RESEARCH**
-
-An exploration into connecting scientific papers, research datasets, simulation workflows and AI-assisted scientific discovery.
-
-### 03 / EKG-OS
-**AI × ENGINEERING INTELLIGENCE**
-
-An exploration into connected engineering knowledge, lifecycle intelligence, technical decisions and enterprise engineering data.
-
-### 04 / AEROMIND OS
-**AI × AEROSPACE × AUTONOMOUS SYSTEMS**
-
-An exploration into predictive aviation intelligence, maintenance forecasting, operational optimization and aerospace risk analysis.
-
-### 05 / MECHANICAL INTELLIGENCE OS
-**AI × MECHANICAL ENGINEERING × DIGITAL TWINS**
-
-An exploration into connecting design, CAD, simulation, manufacturing, quality, service and real-world machine performance.
-
-> These represent product visions and engineering explorations at different stages, not claims of completed production systems.
-
----
 
 ## ⌘ MY TECHNOLOGY WORKBENCH
 
