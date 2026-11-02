@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=850&lines=Software+Engineering+%7C+AI+%7C+Distributed+Systems;Aerospace+%7C+Astronautics+%7C+Autonomous+Systems;Quantum+Computing+%7C+Advanced+Computation;Mechanical+%7C+Materials+%7C+Manufacturing;Scientific+Computing+%7C+Digital+Twins;Exploring+the+Future+of+Engineering." alt="Engineering interests" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=850&lines=Software+Engineering+%7C+AI+%7C+Distributed+Systems;Aerospace+%7C+Astronautics+%7C+Autonomous+Systems;Quantum+Computing+%7C+Advanced+Computation;Mechanical+%7C+Materials+%7C+Manufacturing;Physics+%7C+Cosmology+%7C+Scientific+Discovery;Exploring+the+Future+of+Engineering." alt="Engineering interests" />
   </a>
 </p>
 
@@ -34,13 +34,13 @@ I'm a software engineer fascinated by the intersection of computation, artificia
 
 My curiosity goes beyond conventional software development.
 
-I explore how intelligent software systems can connect the digital and physical worlds — from aerospace and spacecraft to mechanical systems, quantum computing, materials science, robotics and industrial intelligence.
+I explore how intelligent software systems can connect the digital and physical worlds — from aerospace and spacecraft to mechanical systems, quantum computing, physics, materials science, robotics and industrial intelligence.
 
 I believe some of the most important technological breakthroughs will emerge not from working within one discipline, but from connecting several disciplines into one intelligent ecosystem.
 
 **My central question:**
 
-> What could humanity build if software, AI and every branch of engineering worked together?
+> What could humanity build if software, AI, science and every branch of engineering worked together?
 
 I enjoy translating complex ideas into architectures, prototypes, experiments and eventually working systems.
 
@@ -136,7 +136,7 @@ Interested in how physical products are designed, analyzed, manufactured and opt
   <img src="https://img.shields.io/badge/06-SCIENTIFIC%20%26%20COMPUTATIONAL%20ENGINEERING-6441A5?style=for-the-badge" />
 </p>
 
-### 🔬 Science, Mathematics & Computational Research
+### 🔬 Scientific, Mathematical & Computational Research
 
 - Applied mathematics and numerical methods
 - Computational physics
@@ -176,17 +176,27 @@ Interested in how physical products are designed, analyzed, manufactured and opt
 - Nuclear engineering fundamentals
 
 <p align="center">
-  <img src="https://img.shields.io/badge/09-BIOMEDICAL%20%26%20BIOENGINEERING-176B64?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/09-PHYSICS%20%26%20FUNDAMENTAL%20SCIENCES-176B64?style=for-the-badge" />
 </p>
 
-### 🧬 Biomedical & Bioengineering
+### 🔭 Physics, Astrophysics & Fundamental Sciences
 
-- Biomedical technology
-- Computational biology
-- Bioinformatics
-- Medical devices
-- Biomechanics
-- AI-assisted scientific research
+Exploring the fundamental laws governing matter, energy, space, time and the universe.
+
+- Classical mechanics and analytical mechanics
+- Quantum mechanics and quantum field theory
+- Theoretical and mathematical physics
+- Astrophysics and cosmology
+- General and special relativity
+- Particle physics and high-energy physics
+- Nuclear and atomic physics
+- Condensed matter and solid-state physics
+- Electromagnetism and electrodynamics
+- Statistical mechanics and thermodynamics
+- Plasma physics and fluid dynamics
+- Computational physics and numerical simulations
+- Gravitational physics and black hole research
+- Origins, structure and evolution of the universe
 
 <p align="center">
   <img src="https://img.shields.io/badge/10-SOFTWARE%20%26%20ARTIFICIAL%20INTELLIGENCE-007ACC?style=for-the-badge" />
@@ -211,20 +221,20 @@ The computational layer connecting all these engineering disciplines.
 
 # ⬡ 03 — THE BIGGER PICTURE
 
-### One physical world. Multiple engineering disciplines. One interconnected intelligence layer.
+### One physical universe. Multiple engineering disciplines. One interconnected intelligence layer.
 
 ```mermaid
 flowchart TB
-    REAL["🌍 THE PHYSICAL WORLD"]
+    REAL["🌌 THE PHYSICAL UNIVERSE"]
 
-    subgraph ENG["ENGINEERING DOMAINS"]
+    subgraph ENG["ENGINEERING & SCIENTIFIC DOMAINS"]
         A["🚀 Aerospace"]
         B["⚛️ Quantum"]
         C["⚙️ Mechanical"]
         D["🔌 Electrical"]
         E["🤖 Robotics"]
         F["🏗️ Civil"]
-        G["🧬 Biomedical"]
+        G["🔭 Physics"]
         H["⚡ Energy"]
     end
 
@@ -246,7 +256,7 @@ flowchart TB
     REAL --> ENG
     ENG --> COMPUTE
     COMPUTE --> OUT
-    OUT --> IMPACT["🚀 REAL-WORLD ENGINEERING IMPACT"]
+    OUT --> IMPACT["🚀 REAL-WORLD ENGINEERING & SCIENTIFIC IMPACT"]
 ```
 
 My long-term interest is to help build this interconnected engineering ecosystem through software, computation and AI.
@@ -274,6 +284,7 @@ My long-term interest is to help build this interconnected engineering ecosystem
   <img src="https://img.shields.io/badge/Scientific%20Computing-Research-0077B6?style=flat-square" />
   <img src="https://img.shields.io/badge/Digital%20Twins-Exploring-00897B?style=flat-square" />
   <img src="https://img.shields.io/badge/Quantum%20Computing-Exploring-7952B3?style=flat-square" />
+  <img src="https://img.shields.io/badge/Physics-Exploring-176B64?style=flat-square" />
   <img src="https://img.shields.io/badge/CAE%20%7C%20FEA%20%7C%20CFD-Engineering%20Interests-546E7A?style=flat-square" />
 </p>
 
@@ -325,6 +336,7 @@ The questions that keep my curiosity alive:
 - Can intelligent systems predict mechanical failures before they happen?
 - Can engineering knowledge from every discipline become interconnected?
 - Can autonomous systems collaborate across aerospace, manufacturing and scientific research?
+- Can physics and advanced computation help us understand the deepest mysteries of the universe?
 - What would an intelligent operating system for the physical world look like?
 
 I may not have all the answers.
@@ -336,16 +348,16 @@ I may not have all the answers.
 # 📊 07 — GITHUB MISSION CONTROL
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sandeepkulkarni17&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepkulkarni17&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=sandeepkulkarni17&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sandeepkulkarni17&theme=tokyo-night&hide_border=true" width="100%" />
 </p>
 
 <p align="center">
@@ -361,6 +373,7 @@ Interested in collaborating, researching or exchanging ideas around:
 - Aerospace and space technology
 - Quantum computing and advanced computation
 - Mechanical and industrial engineering
+- Physics, astrophysics and scientific computing
 - AI, robotics and autonomous systems
 - Scientific software and digital twins
 - Open-source engineering platforms
@@ -369,7 +382,7 @@ Interested in collaborating, researching or exchanging ideas around:
 I'm particularly interested in people who think across disciplines and enjoy turning difficult problems into working systems.
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/sandeepkulkarni17">
     <img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
